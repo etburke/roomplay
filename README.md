@@ -18,7 +18,7 @@ playing.
 ## Install
 
 ```
-;install https://github.com/<you>/roomplay
+;install https://github.com/etburke/roomplay
 ```
 
 or clone into `dust/code/roomplay` on the norns.
